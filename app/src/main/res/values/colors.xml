@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6D00</color>
+    <color name="colorPrimaryDark">#FF6D00</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bg">#fff</color>
+    <color name="signin">#FFFF6D00</color>
+    <color name="signup">#FFFF</color>
+    <color name="fb_singin">#4C2394</color>
+    <color name="actionbarcolor">#FF517D94</color>
+</resources>
